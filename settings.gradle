@@ -1,0 +1,2 @@
+rootProject.name='Optoro Logger'
+include ':app'
